@@ -1,0 +1,113 @@
+body {
+    background-color: #ffffff;
+}
+
+.container {
+    width: 800px;
+    margin: 0px auto;
+    padding-top: 40px;
+    padding-left: 45px;
+    display: flex;
+}
+
+.gambar {
+    width: 50%;
+}
+
+.phone{
+    width: 310px;
+}
+
+.card-wrapper {
+    width: 50%;
+}
+.card {
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 2px;
+    text-align: center;
+    background-color: white;
+    padding-bottom: 1px ;
+    padding-top: 3px;
+}
+
+.logo{
+    width: 150px;
+}
+
+.form {
+    margin-top: 30px; 
+}
+
+.input{
+    width: 300px;
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 4px;
+    margin-top: 10px;
+}
+
+.btn{
+    background-color: #4cb5f9;
+    border: 0px solid transparent;
+    margin-top: 30px;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+}
+.login-session{
+    color: #01017a;
+    text-decoration: none;
+}
+
+.link-forgot{
+    color: grey;
+    text-decoration: none;
+    font-size: 12px;
+    padding-top: 20px;
+}
+
+.sign-up{
+    color: #0095f6;
+    text-decoration: none;
+}
+
+.apps{
+    text-align: center;
+    color: #262626;
+    
+}
+
+.apps p{
+    margin-bottom: 20px;
+}
+
+.apps a img{
+    text-align: center;
+    width: 135px;
+    height: 40px;
+    margin: 0 5px;
+}
+
+.footer{
+    text-align: center;
+    max-width: 935px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 40px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer .links ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+.links ul li a{
+    color: #003569;
+    font-size: 12px;
+    display: center;
+}
+
